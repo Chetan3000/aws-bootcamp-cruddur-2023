@@ -12,6 +12,11 @@ Using AWS help command and Installed autocomplete feature for Gitpod
 
 ![AWS help command](assets/CLI%20install%20proof.png)
 
+#CLOUD SHELL
+
+Entering Random cloudshell picture :)
+![Cloushell](assets/cloudshell.png)
+
 
 
 #IAM user creation
