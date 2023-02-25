@@ -1,7 +1,7 @@
 # Week 1 — App Containerization
 #SUMMERY OF THE WEEK 1 WORK
 
-Completed all the assignments for the week according to summery on student portal
+Completed all the assignments for the week according to summary on student portal
 1.Explored the codspaces and gitpod, fixed the environment variables (Was having Issue in loading the aws cli) and configured gitpod.yml file.
 2.Containerized the application using dockerfile.
 3.To run both containers created docker-compose.yml file.
